@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### Nice to meet you!
+#### I'm Xiaoyan.
+#### I don't have any pets right now. But if it's possible in the future, I'll have a cat named Buggy and a dog named Pupa.
+
+
 
 <!--
 **XiaoyanShen99/XiaoyanShen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
