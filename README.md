@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### Nice to meet you!
 #### I'm Xiaoyan.
-#### I don't have any pets right now. But if it's possible in the future, I'll have a cat named Buggy and a dog named Pupa.
+#### I don't have any pets right now. But if it's possible in the future, I'll have a cat named MajorBugFix and a dog named Pupa.
 
 
 
